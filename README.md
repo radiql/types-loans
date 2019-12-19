@@ -1,2 +1,2 @@
 # types-loans
-A collection of data types commonly used in loans applications
+A collection of data types commonly used in loans stories
